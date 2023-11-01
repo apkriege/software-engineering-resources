@@ -12,6 +12,7 @@ Edits and additions are more than welcome! If you have anything amazing you'd li
 
 ## Learning
 - One of the best free resources for learning web development, ML, and interview prep - https://www.freecodecamp.org
+- Tech Interview Handbook - https://www.techinterviewhandbook.com 
 
 ## Career
 ### Leveling Up
