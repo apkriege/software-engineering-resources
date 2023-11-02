@@ -7,7 +7,8 @@ Edits and additions are more than welcome! If you have anything amazing you'd li
 - The ultimate cheatsheet website - https://quickref.me
 
 ## Tools and Products
-- Best full featured IDE for starters to experts - https://code.visualstudio.com
+- Great full featured IDE for starters to experts - https://code.visualstudio.com
+- Solid alternative to VSCode - https://www.jetbrains.com/
 - Unsplash royalty free images (make sure to give credit though) - https://unsplash.com
 
 ## Learning
