@@ -38,7 +38,8 @@ Edits and additions are more than welcome! If you have anything amazing you'd li
 - The Polymathic Engineer - https://newsletter.francofernando.com
 
 ## Getting Started in Web Programming
-1. Download VSCode
-2. .
-3. Profit
+1. Download IDE
+2. Create Hello World program
+3. .
+4. Profit
 
