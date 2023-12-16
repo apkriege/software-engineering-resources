@@ -25,6 +25,7 @@ Edits and additions are more than welcome! If you have anything amazing you'd li
 - Techlead Mentor - https://newsletter.techleadmentor.com
 
 ### System Design
+- System Design Primer - https://github.com/donnemartin/system-design-primer
 - Byte Byte Go - Alex Xu - https://bytebytego.com
 - Byte Sized Design - https://bytesizeddesign.substack.com
 - System Design One - https://newsletter.systemdesign.one
